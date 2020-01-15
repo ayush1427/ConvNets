@@ -1,2 +1,2 @@
 # ConvNets
-This is a image classification project
+This is an image classification project
